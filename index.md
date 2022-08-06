@@ -1,9 +1,5 @@
-## RANDY DEO
-
 <h1 align="center">
-<br>
-SITE UNDER MAINTENANCE
-<br>
+  SITE UNDER MAINTENANCE
 </h1>
 
 <p align="center">
@@ -11,5 +7,5 @@ SITE UNDER MAINTENANCE
 </p>
 
 <h3 align="center">
-©2022 RANDY DEO
+  ©2022 RANDY DEO
 </h3>
