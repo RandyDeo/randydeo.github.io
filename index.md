@@ -8,6 +8,6 @@
   <img width="500" src="src/images/RD%20Logo%20Black%20NO%20BG.png" alt="RD LOGO">
 </p>
 
-<h3 align="center">
-  :copyright:2022 RANDY DEO
-</h3>
+<h4 align="center">
+  ©2022 RANDY DEO
+</h4>
